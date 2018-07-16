@@ -3,8 +3,7 @@ One of science's great achievements was the discovery of Kepler's laws for plane
 
 
 Part 1
-The position of a moving planet towards to
-another fixed planet. In this diagram, the smallest or the inner
+The trace of a moving planet towards to another fixed planet. In this diagram, the smallest or the inner
 ellipse is the original track of this moving planet. With time
 increasing, this diagram shows the moving track of this planet starts
 expanding to right side slowly but the track is still ellipse. In the
